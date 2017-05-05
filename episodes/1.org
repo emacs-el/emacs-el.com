@@ -1,0 +1,27 @@
+#+TITLE:       Episode 1 - Sacha Chua
+#+AUTHOR:      Daniel Gopar
+#+DATE:        2015-09-25
+#+URI:         /episodes/1
+#+KEYWORDS:    Emacs.el, Podcast, Episode 1, Sacha Chua
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: In this episode Daniel talks to Sacha Chua about the Emacs community!
+
+Welcome to the very first episode of Emacs.el!
+
+In this episode I talk to Sacha Chua about the Emacs community.
+
+*** Show Notes
+
+I apologize about the mic, I didn't realize it wasn't connected.
+
+Ideas repo:
+
+- https://github.com/gopar/Emacs.el
+
+Show Notes:
+
+- Sacha's blog: http://sachachua.com/
+- Recommended blogs: http://planet.emacsen.org/
+- YouTube playlist:
+  https://www.youtube.com/playlist?list=PL3kg5TcOuFlodvwJDtmq-5rKD3DyyXvnb
