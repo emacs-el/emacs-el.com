@@ -1,0 +1,6 @@
+#+TITLE: About
+
+* About Emacs.el
+
+Welcome to Emacs.el, a podcast where we talk about Emacs and nothing but Emacs!
+We talk about packages, cool configs, and people who make all of this possible.
