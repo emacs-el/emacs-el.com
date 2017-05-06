@@ -3,7 +3,7 @@
 #+DATE:        2016-03-05
 #+URI:         /episodes/5
 #+KEYWORDS:    Emacs.el, Podcast, Episode 5, Jason Lewis
-#+TAGS:        Clojure, Exercism
+#+TAGS:        Clojure, Exercism, Org
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Daniel interviews Jason Lewis, who works on Exercism.io and created its Elisp track as well.
@@ -20,6 +20,9 @@ Related links:
 - [[https://github.com/exercism/xelisp][Exercism Elisp GitHub]]
 - [[https://github.com/canweriotnow/exercism-emacs][Exercism.el package]]
 - [[https://github.com/canweriotnow/exercism-emacs][Exercsim.el mode]]
+
+- [[http://orgmode.org/manual/Capture.html][org-capture]]
+- [[https://github.com/yjwen/org-reveal][org-reveal]]
 
 Shoutouts by
 
