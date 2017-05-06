@@ -1,0 +1,21 @@
+#+TITLE:       Episode 4 - John Wiegley
+#+AUTHOR:      Daniel Gopar
+#+DATE:        2016-02-03
+#+URI:         /episodes/4
+#+KEYWORDS:    Emacs.el, Podcast, Episode 4, John Wiegley
+#+TAGS:        Community
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: On this episode Daniel interviews John Wiegley, the current Emacs maintainer.
+
+On this episode Daniel interviews John Wiegley, the current maintainer of
+Emacs. John talks about the state of Emacs and his plans, and also answers
+questions asked by the Emacs community.
+
+** Show Notes
+
+Related links:
+
+​/r/emacs discussions related to the merge of the Xwidgets branch:
+- [[https://www.reddit.com/r/emacs/comments/4241oy/xwidget_branch_has_been_merged_into_emacs_251/][XWidget Branch has been merged into Emacs 25.1]]
+- [[https://www.reddit.com/r/emacs/comments/4srze9/watching_youtube_inside_emacs_25/][Watching YouTube inside Emacs 25!]]
