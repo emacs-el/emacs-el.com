@@ -14,8 +14,16 @@ questions asked by the Emacs community.
 
 ** Show Notes
 
+Among other things, John proposes to the community to help with triage of bugs
+and proof-reading documentation, as ways of contributing to Emacs that don't
+necessarily require writing code or being a core contributor.
+
 Related links:
 
-​/r/emacs discussions related to the merge of the Xwidgets branch:
-- [[https://www.reddit.com/r/emacs/comments/4241oy/xwidget_branch_has_been_merged_into_emacs_251/][XWidget Branch has been merged into Emacs 25.1]]
-- [[https://www.reddit.com/r/emacs/comments/4srze9/watching_youtube_inside_emacs_25/][Watching YouTube inside Emacs 25!]]
+- [[https://debbugs.gnu.org/][GNU Bug Tracker]]
+  - List of [[https://debbugs.gnu.org/cgi/pkgreport.cgi?package=emacs;max-bugs=100;base-order=1;bug-rev=1][GNU Emacs bugs]]
+  - [[https://lists.gnu.org/mailman/listinfo/bug-gnu-emacs][bug-gnu-emacs]] mailing list (bug reports for GNU Emacs)
+- [[https://emacswiki.org/][EmacsWiki]]
+- ​/r/emacs discussions related to the merge of the Xwidgets branch:
+  - [[https://www.reddit.com/r/emacs/comments/4241oy/xwidget_branch_has_been_merged_into_emacs_251/][XWidget Branch has been merged into Emacs 25.1]]
+  - [[https://www.reddit.com/r/emacs/comments/4srze9/watching_youtube_inside_emacs_25/][Watching YouTube inside Emacs 25!]]
