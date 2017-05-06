@@ -8,8 +8,8 @@
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: In this episode Daniel interviews Samer Masterson, the organizer of EmacsConf and the current maintainer of Eshell.
 
-In this episode I interview Samer Masterson, who organized the emacs conference
-and who is currently the maintainer of Eshell.
+In this episode Daniel interviews Samer Masterson, the organizer of EmacsConf
+and the current maintainer of Eshell.
 
 ** Show Notes
 

@@ -10,7 +10,7 @@
 
 Welcome to the very first episode of Emacs.el!
 
-In this episode I talk to Sacha Chua about the Emacs community.
+In this episode Daniel talks to Sacha Chua about the Emacs community.
 
 ** Show Notes
 
