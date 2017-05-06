@@ -8,20 +8,20 @@
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Daniel interviews Jason Lewis, who works on Exercism.io and created its Elisp track as well.
 
-Daniel interviews Jason Lewis, who works on Exercism.io and created its Elisp
+Daniel interviews Jason Lewis, who works on [[http://exercism.io/][Exercism.io]] and created its Elisp
 track as well.
 
 ** Show Notes
 
 Related links:
 
-- Exercism Elisp About Page: http://exercism.io/languages/elisp
-- Exercism Elisp Stats: http://exercism.io/stats/elisp
-- Exercism Elisp GitHub: https://github.com/exercism/xelisp
-- Exercism.el package: https://github.com/canweriotnow/exercism-emacs
-- Exercsim.el mode: https://github.com/canweriotnow/exercism-emacs
+- [[http://exercism.io/languages/elisp/about][Exercism Elisp About Page]]
+- [[http://exercism.io/stats/elisp][Exercism Elisp Stats]]
+- [[https://github.com/exercism/xelisp][Exercism Elisp GitHub]]
+- [[https://github.com/canweriotnow/exercism-emacs][Exercism.el package]]
+- [[https://github.com/canweriotnow/exercism-emacs][Exercsim.el mode]]
 
 Shoutouts by
 
-- Jason: Clojure for the brave and true: http://www.braveclojure.com/
-- Daniel: Two Scoops of Django: https://www.twoscoopspress.com/
+- Jason: [[http://www.braveclojure.com/][Clojure for the brave and true]]
+- Daniel: [[https://www.twoscoopspress.com/][Two Scoops of Django]]
