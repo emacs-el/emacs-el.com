@@ -1,0 +1,22 @@
+#+TITLE:       Episode 2 - Samer Masterson
+#+AUTHOR:      Daniel Gopar
+#+DATE:        2015-09-30
+#+URI:         /episodes/2
+#+KEYWORDS:    Emacs.el, Podcast, Episode 2, Samer Masterson
+#+TAGS:        Eshell, EmacsConf
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: In this episode Daniel interviews Samer Masterson, the organizer of EmacsConf and the current maintainer of Eshell.
+
+In this episode I interview Samer Masterson, who organized the emacs conference
+and who is currently the maintainer of Eshell.
+
+** Show Notes
+
+Related links:
+
+- Lars Ingebrigtsen's guide to getting started with contributing to Emacs:
+  https://lars.ingebrigtsen.no/2014/11/13/welcome-new-emacs-developers/
+- Samer's blog: https://samertm.com/
+- Emacs.el's YouTube playlist:
+  https://www.youtube.com/playlist?list=PL3kg5TcOuFlodvwJDtmq-5rKD3DyyXvnb
