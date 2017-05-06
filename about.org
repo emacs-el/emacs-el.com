@@ -1,6 +1,12 @@
-#+TITLE: About
+#+TITLE:       About
+#+OPTIONS:     num:nil toc:nil
 
-* About Emacs.el
+* Emacs.el
 
-Welcome to Emacs.el, a podcast where we talk about Emacs and nothing but Emacs!
-We talk about packages, cool configs, and people who make all of this possible.
+The podcast where we talk about Emacs and nothing but Emacs! We talk about
+packages, cool configs, and people who make all of this possible.
+
+* Hosts
+
+Your host is [[http://www.pygopar.com/][Daniel Gopar]], and [[https://aminb.org][Amin Bandali]] will be joining in as your co-host
+starting with Episode 7.
