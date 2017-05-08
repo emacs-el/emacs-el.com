@@ -12,7 +12,7 @@ In this episode Daniel interviews Samer Masterson, the organizer of EmacsConf
 and the current maintainer of Eshell.
 
 #+BEGIN_EXPORT html
-<audio style="width: 100%;" title="Episode 2 - Samer Masterson" controls preload="none">
+<audio style="width: 100%;" title="Episode 2 - Samer Masterson" controls preload="metadata">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep2.mp3" type="audio/mp3">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep2.ogg" type="audio/ogg">
 </audio>

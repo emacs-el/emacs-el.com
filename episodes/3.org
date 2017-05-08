@@ -14,7 +14,7 @@ great". They talk about the differences they see between Vim and Emacs, and also
 share some information on their Python workflow.
 
 #+BEGIN_EXPORT html
-<audio style="width: 100%;" title="Episode 3 - Tobias Macey and Chris Patti" controls preload="none">
+<audio style="width: 100%;" title="Episode 3 - Tobias Macey and Chris Patti" controls preload="metadata">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep3.mp3" type="audio/mp3">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep3.ogg" type="audio/ogg">
 </audio>

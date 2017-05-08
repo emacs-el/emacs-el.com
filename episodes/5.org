@@ -12,7 +12,7 @@ Daniel interviews Jason Lewis, who works on [[http://exercism.io/][Exercism.io]]
 track as well.
 
 #+BEGIN_EXPORT html
-<audio style="width: 100%;" title="Episode 5 - Jason Lewis" controls preload="none">
+<audio style="width: 100%;" title="Episode 5 - Jason Lewis" controls preload="metadata">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep5.mp3" type="audio/mp3">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep5.ogg" type="audio/ogg">
 </audio>

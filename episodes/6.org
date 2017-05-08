@@ -14,7 +14,7 @@ package archive! Charles does a lot of JavaScript work and has contributed
 support for ES6 modules syntax to js2-mode.
 
 #+BEGIN_EXPORT html
-<audio style="width: 100%;" title="Episode 6 - Charles Lowell" controls preload="none">
+<audio style="width: 100%;" title="Episode 6 - Charles Lowell" controls preload="metadata">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep6.mp3" type="audio/mp3">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep6.ogg" type="audio/ogg">
 </audio>

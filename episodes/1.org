@@ -13,7 +13,7 @@ Welcome to the very first episode of Emacs.el!
 In this episode Daniel talks to Sacha Chua about the Emacs community.
 
 #+BEGIN_EXPORT html
-<audio style="width: 100%;" title="Episode 1 - Sacha Chua" controls preload="none">
+<audio style="width: 100%;" title="Episode 1 - Sacha Chua" controls preload="metadata">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep1.mp3" type="audio/mp3">
   <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep1.ogg" type="audio/ogg">
 </audio>
