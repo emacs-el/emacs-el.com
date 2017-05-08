@@ -8,6 +8,14 @@
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Daniel interviews Jason Lewis, who works on Exercism.io and created its Elisp track as well.
 
+-----
+
+*Update:* it came to our attention that unfortunately Jason [[https://tinyletter.com/exercism/letters/in-memoriam-jason-lewis][passed]] [[https://www.meetup.com/Baltimore-Clojure/messages/boards/thread/50503577][away]]
+tragically on December 26, 2016. He was a great force in the Clojure community,
+and the organizer of the [[https://www.meetup.com/Baltimore-Clojure/events/236331471/][Baltimore Clojure meetup]]. Jason will be dearly missed.
+
+-----
+
 Daniel interviews Jason Lewis, who works on [[http://exercism.io/][Exercism.io]] and created its Elisp
 track as well.
 
