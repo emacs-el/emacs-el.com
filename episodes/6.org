@@ -8,7 +8,7 @@
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: In this episode, Daniel interviews Charles Lowell from Frontside.
 
-We're back! In this episode, Daniel interivews Charles Lowell from [[http://frontside.io/][Frontside.io]],
+We're back! In this episode, Daniel interviews Charles Lowell from [[http://frontside.io/][Frontside.io]],
 an Austin-based software studio with a company-wide Emacs config and their own
 package archive! Charles does a lot of JavaScript work and has contributed
 support for ES6 modules syntax to js2-mode.
