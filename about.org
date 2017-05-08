@@ -1,5 +1,6 @@
 #+TITLE:       About
 #+OPTIONS:     num:nil toc:nil
+#+DESCRIPTION: The podcast where we talk about Emacs and nothing but Emacs! We talk about packages, cool configs, and people who make all of this possible.
 
 * Emacs.el
 
