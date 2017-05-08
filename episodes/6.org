@@ -13,6 +13,19 @@ an Austin-based software studio with a company-wide Emacs config and their own
 package archive! Charles does a lot of JavaScript work and has contributed
 support for ES6 modules syntax to js2-mode.
 
+#+BEGIN_EXPORT html
+<audio style="width: 100%;" title="Episode 6 - Charles Lowell" controls preload="none">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep6.mp3" type="audio/mp3">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep6.ogg" type="audio/ogg">
+</audio>
+#+END_EXPORT
+
+- Download:
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep6.mp3][MP3]]
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep6.ogg][Ogg]]
+- Watch:
+  - [[https://www.youtube.com/watch?v=GPMLZ9q93k8][YouTube]]
+
 ** Show Notes
 
 [[https://github.com/thefrontside/frontmacs][Frontmacs]], in their own words, is a "package-based, web-centric, customizable,

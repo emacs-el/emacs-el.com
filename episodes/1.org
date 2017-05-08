@@ -12,6 +12,19 @@ Welcome to the very first episode of Emacs.el!
 
 In this episode Daniel talks to Sacha Chua about the Emacs community.
 
+#+BEGIN_EXPORT html
+<audio style="width: 100%;" title="Episode 1 - Sacha Chua" controls preload="none">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep1.mp3" type="audio/mp3">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep1.ogg" type="audio/ogg">
+</audio>
+#+END_EXPORT
+
+- Download:
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep1.mp3][MP3]]
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep1.ogg][Ogg]]
+- Watch:
+  - [[https://www.youtube.com/watch?v=3-aoH5EuIII][YouTube]]
+
 ** Show Notes
 
 I apologize about the mic, I didn't realize it wasn't connected.

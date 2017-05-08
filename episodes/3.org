@@ -13,6 +13,19 @@ In this episode Daniel interviews Tobias Macey and Chris Patti, the hosts of
 great". They talk about the differences they see between Vim and Emacs, and also
 share some information on their Python workflow.
 
+#+BEGIN_EXPORT html
+<audio style="width: 100%;" title="Episode 3 - Tobias Macey and Chris Patti" controls preload="none">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep3.mp3" type="audio/mp3">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep3.ogg" type="audio/ogg">
+</audio>
+#+END_EXPORT
+
+- Download:
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep3.mp3][MP3]]
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep3.ogg][Ogg]]
+- Watch:
+  - [[https://www.youtube.com/watch?v=zUn8V641DcM][YouTube]]
+
 ** Show Notes
 
 Related links:

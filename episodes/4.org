@@ -12,6 +12,19 @@ On this episode Daniel interviews John Wiegley, the current maintainer of
 Emacs. John talks about the state of Emacs and his plans, and also answers
 questions asked by the Emacs community.
 
+#+BEGIN_EXPORT html
+<audio style="width: 100%;" title="Episode 4 - John Wiegley" controls preload="none">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep4.mp3" type="audio/mp3">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep4.ogg" type="audio/ogg">
+</audio>
+#+END_EXPORT
+
+- Download:
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep4.mp3][MP3]]
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep4.ogg][Ogg]]
+- Watch:
+  - [[https://www.youtube.com/watch?v=udNb4E4smbM][YouTube]]
+
 ** Show Notes
 
 Among other things, John proposes to the community to help with triage of bugs

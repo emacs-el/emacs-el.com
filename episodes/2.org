@@ -11,6 +11,19 @@
 In this episode Daniel interviews Samer Masterson, the organizer of EmacsConf
 and the current maintainer of Eshell.
 
+#+BEGIN_EXPORT html
+<audio style="width: 100%;" title="Episode 2 - Samer Masterson" controls preload="none">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep2.mp3" type="audio/mp3">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep2.ogg" type="audio/ogg">
+</audio>
+#+END_EXPORT
+
+- Download:
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep2.mp3][MP3]]
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep2.ogg][Ogg]]
+- Watch:
+  - [[https://www.youtube.com/watch?v=fKZwFTTyAZY][YouTube]]
+
 ** Show Notes
 
 Related links:

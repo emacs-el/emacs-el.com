@@ -11,6 +11,19 @@
 Daniel interviews Jason Lewis, who works on [[http://exercism.io/][Exercism.io]] and created its Elisp
 track as well.
 
+#+BEGIN_EXPORT html
+<audio style="width: 100%;" title="Episode 5 - Jason Lewis" controls preload="none">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep5.mp3" type="audio/mp3">
+  <source src="https://cdn.emacs-el.com/episodes/emacs-el-ep5.ogg" type="audio/ogg">
+</audio>
+#+END_EXPORT
+
+- Download:
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep5.mp3][MP3]]
+  - [[https://cdn.emacs-el.com/episodes/emacs-el-ep5.ogg][Ogg]]
+- Watch:
+  - [[https://www.youtube.com/watch?v=dHdvgNeyBjs][YouTube]]
+
 ** Show Notes
 
 Related links:
