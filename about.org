@@ -2,12 +2,26 @@
 #+OPTIONS:     num:nil toc:nil
 #+DESCRIPTION: The podcast where we talk about Emacs and nothing but Emacs! We talk about packages, cool configs, and people who make all of this possible.
 
-* Emacs.el
+** Emacs.el
 
 The podcast where we talk about Emacs and nothing but Emacs! We talk about
 packages, cool configs, and people who make all of this possible.
 
-* Hosts
+** Hosts
 
 Your host is [[http://www.pygopar.com/][Daniel Gopar]], and [[https://aminb.org][Amin Bandali]] will be joining in as your co-host
 starting with Episode 7.
+
+** Legalese
+
+*** Episodes
+
+All episodes of Emacs.el are released under a [[https://creativecommons.org/licenses/by-nc-nd/4.0/][Creative Commons Attribution
+Non-Commercial No-Derivatives 4.0 International]] license. Feel free to copy and
+redistribute the episodes in any medium or format, under the terms of the above
+license.
+
+*** Logo
+
+We're using the beautiful Emacs icon by Christopher Green, distributed under a
+GPLv3 license: https://github.com/cg433n/emacs-mac-icon
